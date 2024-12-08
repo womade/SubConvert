@@ -1841,7 +1841,8 @@
 }
 
 .box-card[data-v-b824dc6e] {
-    width: 1000px;
+    width: 95%;
+    max-width: 1200px;
     height: auto;
     margin: 100px auto auto
 }
@@ -1852,6 +1853,7 @@
 
 .header[data-v-b824dc6e] {
     display: block;
+    font-weight: bold;
     margin-left: 33px;
     font-size: 20px;
     margin-top: 10px;
